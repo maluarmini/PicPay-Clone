@@ -11,7 +11,7 @@ export default function PayButton({onPress, focused}){
         <Button
         colors={
             focused
-            ? ['#fff', '#ccc']
+            ? ['#fff', '#ccC']
             : ['#00fc6c', '#00ac4a']
         }
         start={[1, 0.2]}
